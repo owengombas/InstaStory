@@ -28,7 +28,7 @@
     "qs": "^6.6.0",
     "rakkit": "^0.1.14",
     "rxjs": "^6.4.0",
-    "typeorm": "^0.2.14"
+    "typeorm": "^0.2.25"
   },
   "devDependencies": {
     "@types/koa-bodyparser": "^4.2.2",
